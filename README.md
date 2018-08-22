@@ -1,7 +1,7 @@
 # Teapot_3D_Demo
 
 
-**Requirements-**
+**Requirements:-**
 1. Arduino Uno
 2. MPU6050
 3. Jumpers
